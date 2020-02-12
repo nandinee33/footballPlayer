@@ -30,7 +30,5 @@ public class footballPlayer {
         else
             System.out.println("NO");
 
-
     }
-
-        }
+}
