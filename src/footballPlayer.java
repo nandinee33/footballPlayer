@@ -25,7 +25,12 @@ public class footballPlayer {
             }
 
         }
+        if (ng == true)
+            System.out.println("YES");
+        else
+            System.out.println("NO");
 
-            }
+
+    }
 
         }
