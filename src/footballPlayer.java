@@ -17,9 +17,15 @@ public class footballPlayer {
                     b = 0;
 
                 }
+                if (a == 7 || b == 7) {
+                    ng = true;
+                    break;
+                }
 
             }
 
         }
-    }
-}
+
+            }
+
+        }
